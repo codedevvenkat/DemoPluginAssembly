@@ -1,2 +1,2 @@
 # DemoPluginAssembly
-DemoPluginAssembly for plugin
+DemoPluginAssembly for plugins
