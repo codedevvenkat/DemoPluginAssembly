@@ -1,0 +1,14 @@
+C:\pocs\BootCamp\PluginDemo\bin\Debug\PluginDemo.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\PluginDemo.pdb
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\pocs\BootCamp\PluginDemo\bin\Debug\Newtonsoft.Json.dll
+C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.csprojAssemblyReference.cache
+C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.csproj.CoreCompileInputs.cache
+C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.csproj.CopyComplete
+C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.dll
+C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.pdb
