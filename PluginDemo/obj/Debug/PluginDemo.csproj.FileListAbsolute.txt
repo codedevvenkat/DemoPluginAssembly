@@ -12,3 +12,14 @@ C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.csproj.CoreCompileInputs.cache
 C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.csproj.CopyComplete
 C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.dll
 C:\pocs\BootCamp\PluginDemo\obj\Debug\PluginDemo.pdb
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\bin\Debug\PluginDemo.dll
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\bin\Debug\PluginDemo.pdb
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\bin\Debug\Newtonsoft.Json.dll
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\obj\Debug\PluginDemo.csprojAssemblyReference.cache
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\obj\Debug\PluginDemo.csproj.CoreCompileInputs.cache
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\obj\Debug\PluginDemo.csproj.CopyComplete
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\obj\Debug\PluginDemo.dll
+C:\pocs\GitTest\DemoPluginAssembly\PluginDemo\obj\Debug\PluginDemo.pdb

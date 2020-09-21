@@ -34,7 +34,6 @@ namespace PluginDemo
                 {
                     if (context.Stage == 40)
                     {
-                      
                         Entity updateaccount = new Entity("account");
                         updateaccount.Id = entity.Id;
                         updateaccount.Attributes["description"] = "hELLO Create";
